@@ -1,0 +1,12 @@
+#RUN python3 -m pip install --upgrade pip
+#RUN apt-get update 
+#RUN apt-get install -y git 
+#RUN apt-get install -y gcc python3-dev 
+
+pip install numpy matplotlib pandas scipy sympy
+pip install datascience
+pip install otter-grader
+pip install nbgitpuller 
+pip install nbgitpuller-link
+pip install notebook
+pip install pyarrow
