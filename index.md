@@ -2,7 +2,8 @@
 layout: default
 title: Clases
 nav_order: 1
-description: "Este es un ejemplo de web
+description: "Este es la web del curso de metodos computacionales. 
+Instituo de Física. Universidad de Antioquia"
 permalink: /
 ---
 
