@@ -1,0 +1,3 @@
+pip install numpy matplotlib pandas scipy sympy
+pip install otter-grader
+pip install notebook
