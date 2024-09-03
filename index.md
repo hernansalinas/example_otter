@@ -6,6 +6,10 @@ description: "Ejemplo de Curso"
 permalink: /
 ---
 
+Para descargar las instrucciones de despligue: 
+
+https://github.com/hernansalinas/example_otter/raw/main/InstruccionesDespligue/Instrucciones.pptx
+
 # Métodos computacionales 
 {: .fs-9 }
 
