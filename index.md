@@ -26,7 +26,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase del taller 
 |------------------------|-----------| -------------| 
 | Arranque del sistem operativo|   [Mat 0.1](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/LinuxBasico/Linux00_Arranque.md){: .btn .btn-blue}  |                   |
 | Estructura Directorios|   [Mat 0.2](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/LinuxBasico/Linux01_EstructuraDirectorios.md){: .btn .btn-purple}  |                   |
-| Comandos Basicos|   [Mat 0.3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
+| Comandos Basicos|   [Mat 0.3](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/https://github.com/hernansalinas/CursoMetodosComputacionales/tree/main/Material_sesiones/LinuxBasico/Linux02_comandos_basicos.md){: .btn .btn-blue}  |                   |
 | Distribuciones Linux|   [Mat 0.4](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/LinuxBasico/Linux03_Distribuciones.md){: .btn .btn-blue}  |                   |
 | Actividad comandos básicos|   [Actividad 0](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/LinuxBasico/Actividad00_v1.md){: .btn .btn-green}  |                   |
 | Ejemplo de bash|   [Ejemplo 0](https://github.com/hernansalinas/CursoMetodosComputacionales/blob/main/Material_sesiones/LinuxBasico/adivinanza.sh){: .btn .btn-green}  |                   |
